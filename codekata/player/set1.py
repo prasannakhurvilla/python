@@ -1,2 +1,2 @@
-x=raw_input("Enter the string")
-print x[::-1]
+a=raw_input("Input:")
+print a[::-1]
